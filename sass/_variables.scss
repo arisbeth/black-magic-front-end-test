@@ -1,0 +1,41 @@
+// === Variables ===
+
+// Colors
+
+$body-main-color: 		#F8F8FC;
+$body-support-color: 	#FAFAFE;
+$text-color-main: 		#343036; 
+$text-color-muted: 		#97959A; 
+$brand-color-main:  	#4A61D6;
+$brand-color-support: 	#5C22D1;
+$altern-color-main: 	#FF8D58;
+$altern-color-support: 	#FFB752;
+
+// Box-Model
+
+$size-base: 1rem ;
+
+// Font
+
+$font-family-sans-serif:	'Montserrat', sans-serif;
+$font-family-base:			font-family-sans-serif;
+$font-size-base:			.80rem;
+$font-weight-semibold: 			600;
+$font-weight-medium: 			500;
+$font-weight-regular: 			400;
+$font-weight-light: 			300;
+
+// Sizes
+
+$brand-size-logo:	30px;
+
+// Generals
+
+$transition-smoth:	all 0.3s ease;
+
+// Break-points
+
+$breakpoint-phone:		480px;
+$breakpoint-tablet:		768px;
+$breakpoint-desktop:	992px;
+$breakpoint-retina:		1200px;

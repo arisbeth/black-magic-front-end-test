@@ -1,0 +1,18 @@
+// === Animation Styles ===
+
+.lead-animation {
+	width: 50%;
+	float: right;
+	text-align: center;
+
+	padding-top: $size-base * 10 ;
+
+	@media (max-width: $breakpoint-tablet) {
+		width: 85%;
+		margin: auto;
+		padding-top: 0 ;
+	}
+
+
+}
+
